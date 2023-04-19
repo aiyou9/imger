@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--Created:ce44715c-8c4e-446b-879c-ea9ebe0f09c8-->
+<!--Created:cf38fd0a-00ac-4248-bff9-2f2dc9d1b281-->
 <OfficeApp 
           xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" 
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -10,11 +10,11 @@
   <!-- 开始基本设置:外接程序元数据，用于所有版本的 Office(除非提供重写)。 -->
 
   <!-- 重要事项！ID 对于外接程序必须是唯一的，如果重复使用该清单，请确保将此 ID 改为新的 GUID。 -->
-  <Id>c0ec7c55-a414-4a85-890a-512df639b33d</Id>
+  <Id>7079cf41-7983-4199-8b0f-2e12e54b548a</Id>
 
   <!--版本。来自应用商店的更新只有在版本变化时才会被触发。 -->
   <Version>1.0.0.0</Version>
-  <ProviderName>[提供程序名称]</ProviderName>
+  <ProviderName>imger工具</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <!-- 外接程序的显示名称。在应用商店中使用，出现在外接程序对话框等 Office UI 中。 -->
   <DisplayName DefaultValue="imger" />
