@@ -22,7 +22,7 @@
   <!-- 外接程序的图标。用于安装屏幕和外接程序对话框中。 -->
   <IconUrl DefaultValue="~remoteAppUrl/Images/Button32x32.png" />
 
-  <SupportUrl DefaultValue="http://www.contoso.com" />
+  <SupportUrl DefaultValue="http://www.vbreed.com" />
   <!-- 导航时允许使用的域。例如，如果使用 ShowTaskpane，然后得到一个 href 链接，则只有在此列表上存在该域时，才允许导航。 -->
   <AppDomains>
     <AppDomain>AppDomain1</AppDomain>
